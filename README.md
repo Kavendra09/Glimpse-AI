@@ -33,8 +33,8 @@ This app demonstrates how to build a chat interface and connect it to an LLM bac
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Kavendra09/Glimpse-AI.git
+cd Glimpse-AI
 ```
 
 ### 2. Install dependencies
