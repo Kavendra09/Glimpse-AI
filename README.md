@@ -16,8 +16,8 @@ This app demonstrates how to build a chat interface and connect it to an LLM bac
 ## 📸 Screenshots
 
 ### Chat Screen Example
-<img src="./Simulator Screenshot - iPhone 17 - 2025-09-25 at 12.27.15.png" width="300" />
-<img src="./Simulator Screenshot - iPhone 17 - 2025-09-25 at 12.27.19.png" width="300" />
+<img src="https://lh3.googleusercontent.com/d/1eRtGaR0cCce1Pju6mujx_AeTm1hjT5so" width="300" />
+<img src="https://lh3.googleusercontent.com/d/1xPXLvUTPzqCznReKv0-MnSFNrG974Exj" width="300" />
 
 ---
 
